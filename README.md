@@ -1,16 +1,13 @@
-### Hi there 👋
+### Hi there 👋 
 
-<!--
-**ibrahimy353/ibrahimy353** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm Ibrahim a web dev from Kenya with a passion for developing cool stuff for the internet and enjoy working on robust, secure and scalable systems.
 
-Here are some ideas to get you started:
+- 🔭 I’m currently working on creating a currency convertor app. 
+- 🌱 I’m currently learning AWS cloud Practitioner. 
+- :open_hands: I’m looking to collaborate on any web dev project that involves getting myself out of comfort zone.
+- 📫 How to reach me: just click on my portfolio website https://ibrahim-yusuf.netlify.app/ and go to contact section.
+- ⚡ Fun fact: I honestly hope Arsenal wins the EPL cup :trophy:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+t.
+
+
