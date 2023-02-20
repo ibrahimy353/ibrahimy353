@@ -1,6 +1,6 @@
 ### Hi there 👋 
 
-I'm Ibrahim a web dev from Kenya with a passion for developing cool stuff for the internet and enjoy working on robust, secure and scalable systems.
+I'm Ibrahim a web developer who adores developing cool stuff for the internet and enjoy working on robust, secure and scalable systems.
 
 - 🔭 I’m currently working on creating a currency convertor app. 
 - 🌱 I’m currently learning AWS cloud Practitioner. 
